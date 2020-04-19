@@ -1,6 +1,8 @@
 RENCANA KONTEK WPU
 
 - Java Scripts
+   * ES6
+   * Framework JavaScript
 - PHP Frameworks
 - Interview
 - Vlog
