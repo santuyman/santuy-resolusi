@@ -3,8 +3,9 @@ RENCANA KONTEK WPU
 - Java Scripts
    * ES6
    * Framework JavaScript
-      ^ Angular
       ^ React
+      ^ Vue
+- Struktur Data Dasar
 - PHP Frameworks
       ^ Laravel
 - Interview
